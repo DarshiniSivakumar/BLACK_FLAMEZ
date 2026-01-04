@@ -1,4 +1,8 @@
 from audit.blockchain import add_audit_entry
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2bc8181 (Add all agent files)
 def compliance_decision(detection_output):
     """
     Coordinator Agent:
